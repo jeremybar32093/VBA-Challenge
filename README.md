@@ -2,7 +2,7 @@
 
 Created 03/21/2021
 
-This repo contains Excel workbooks containing VBA code that performs the following (given columns A-G in the provided screenshots as source data):
+This repo contains Excel VBA code that performs the following (given columns A-G in the provided screenshots as source data):
 
 Loops through all the stocks for one year and output the following information:  
   * The ticker symbol.  
